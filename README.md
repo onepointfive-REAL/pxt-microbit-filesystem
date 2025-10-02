@@ -45,6 +45,8 @@ files.readToSerial("data.txt");
 
 The package allows to save and load number settings based on the file system
 
+<img width="589" height="183" alt="Screenshot 2025-10-02 10 21 15 AM" src="https://github.com/user-attachments/assets/4f6364a4-d71c-4079-849c-e4ae3475e5d7" />
+
 * save setting value
 
 ```blocks
