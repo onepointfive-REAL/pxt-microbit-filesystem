@@ -1,4 +1,5 @@
 # File system driver
+New instructions - Filesystem has been removed from makecode official extensions
 
 To use this package, go to https://makecode.microbit.org, click ``Extensions`` and search for `https://github.com/onepointfive-REAL/pxt-microbit-filesystem` and press enter, it will automatically popup.
 
@@ -6,9 +7,9 @@ DEPRECATED - This package is no longer maintained or supported.
 
 ## Usage
 
-The package allows to read and write files to the @boardname@ flash.
+The package allows to read and write files to the micro:bit flash.
 
-The entire file system content is ERASED when a new .hex file is download onto the @boardname@.
+The entire file system content is ERASED when a new .hex file is download onto the micro:bit.
 
 ### Writing data
 
