@@ -14,6 +14,8 @@ The entire file system content is ERASED when a new .hex file is download onto t
 ### Writing data
 
 * append text and a new line character
+  
+<img width="359" height="224" alt="Screenshot 2025-10-02 10 30 50 AM" src="https://github.com/user-attachments/assets/333d466b-4600-4e19-8b60-3053a33cce5a" />
 
 ```blocks
 files.appendLine("data.txt", "Hello");
@@ -21,11 +23,15 @@ files.appendLine("data.txt", "Hello");
 
 * append text to the file
 
+<img width="359" height="224" alt="Screenshot 2025-10-02 10 32 21 AM" src="https://github.com/user-attachments/assets/5f936fef-9c45-49e2-bc83-85e7fd3d85b9" />
+  
 ```blocks
 files.appendString("data.txt", "Hello");
 ```
 
 * append a number (as text) to the file
+  
+<img width="357" height="243" alt="Screenshot 2025-10-02 10 33 17 AM" src="https://github.com/user-attachments/assets/f74d6042-5a31-43f7-8c68-1fc77ebc76a2" />
 
 ```blocks
 files.appendNumber("data.txt", 42);
