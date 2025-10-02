@@ -5,7 +5,7 @@ To use this package, go to https://makecode.microbit.org, click ``Extensions`` a
 
 DEPRECATED - This package is no longer maintained or supported.
 
-[alternate](https://redoweb.rf.gd/subpages/microbit/)
+[Alternate readme](https://redoweb.rf.gd/subpages/microbit/)
 
 ## Usage
 
