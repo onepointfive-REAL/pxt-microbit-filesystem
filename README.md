@@ -34,6 +34,8 @@ files.appendNumber("data.txt", 42);
 ### Reading data
 
 * send the content of a file to serial
+  
+<img width="356" height="133" alt="Screenshot 2025-10-02 10 18 26 AM" src="https://github.com/user-attachments/assets/98e75d60-d1e7-4bd7-baf2-9ee15dc190c5" />
 
 ```blocks
 files.readToSerial("data.txt");
