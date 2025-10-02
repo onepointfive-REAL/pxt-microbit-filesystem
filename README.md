@@ -1,9 +1,11 @@
-# File system driver
+# File system drive
 New instructions - Filesystem has been removed from makecode official extensions
 
 To use this package, go to https://makecode.microbit.org, click ``Extensions`` and search for `https://github.com/onepointfive-REAL/pxt-microbit-filesystem` and press enter, it will automatically popup.
 
 DEPRECATED - This package is no longer maintained or supported.
+
+[alternate](https://redoweb.rf.gd/subpages/microbit/)
 
 ## Usage
 
