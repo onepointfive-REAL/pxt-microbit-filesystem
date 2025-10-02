@@ -22,9 +22,9 @@ files.appendLine("data.txt", "Hello");
 ```
 
 * append text to the file
-
-<img width="359" height="224" alt="Screenshot 2025-10-02 10 32 21 AM" src="https://github.com/user-attachments/assets/5f936fef-9c45-49e2-bc83-85e7fd3d85b9" />
   
+<img width="357" height="243" alt="Screenshot 2025-10-02 10 34 03 AM" src="https://github.com/user-attachments/assets/7bbf67fe-fb6a-49a9-85da-b5f2cb3e0380" />
+
 ```blocks
 files.appendString("data.txt", "Hello");
 ```
