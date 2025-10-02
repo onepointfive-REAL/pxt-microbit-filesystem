@@ -65,6 +65,8 @@ The ``File`` class allows to keep a file instance open, manipulate the pointer p
 
 
 * open, flush or close the file
+  
+<img width="383" height="234" alt="Screenshot 2025-10-02 10 23 24 AM" src="https://github.com/user-attachments/assets/4f7df3be-73ec-44b9-a3a6-46d83c7916be" />
 
 ```blocks
 let f = files.open("data.txt");
