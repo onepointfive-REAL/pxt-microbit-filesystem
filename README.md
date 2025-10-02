@@ -92,7 +92,7 @@ let pos = f.position();
 ## Example: Writing accelerometer data
 
 The following program allows to collect accelerometer data and save it in a ``data.csv`` file. 
-When the user presses button ``A``, the @boardname@ pauses for 3 seconds, then starts collecting 720 acceleration samples.
+When the user presses button ``A``, the micro:bit pauses for 3 seconds, then starts collecting 720 acceleration samples.
 Each sample is written to the file in a format that can be important by spreadsheet programs (CSV).
 
 ```blocks
