@@ -95,6 +95,8 @@ let c = f.read();
 ```
 
 * set the cursor position
+  
+<img width="344" height="219" alt="Screenshot 2025-10-02 10 27 40 AM" src="https://github.com/user-attachments/assets/3c539c3c-8501-42af-9776-1fdb385e6f0a" />
 
 ```blocks
 let f = files.open("data.txt");
