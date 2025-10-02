@@ -83,7 +83,11 @@ let f = files.open("data.txt");
 f.writeString("yay");
 ```
 
+
 * read data
+  
+  <img width="497" height="230" alt="Screenshot 2025-10-02 10 26 43 AM" src="https://github.com/user-attachments/assets/dd532718-8872-4647-a6b2-cbc1240ef801" />
+
 ```blocks
 let f = files.open("data.txt");
 let buf = f.readBuffer(64);
