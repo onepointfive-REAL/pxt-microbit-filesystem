@@ -110,6 +110,8 @@ The following program allows to collect accelerometer data and save it in a ``da
 When the user presses button ``A``, the micro:bit pauses for 3 seconds, then starts collecting 720 acceleration samples.
 Each sample is written to the file in a format that can be important by spreadsheet programs (CSV).
 
+<img width="966" height="479" alt="Screenshot 2025-10-02 10 29 07 AM" src="https://github.com/user-attachments/assets/91b56b38-6f90-4c17-8cce-187816a7f840" />
+
 ```blocks
 let file = "data.csv";
 input.onButtonPressed(Button.A, () => {    
