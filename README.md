@@ -75,6 +75,9 @@ f.close();
 ```
 
 * write strings or buffers
+  
+<img width="363" height="183" alt="Screenshot 2025-10-02 10 25 05 AM" src="https://github.com/user-attachments/assets/3df7e59f-5bd1-479d-831e-f81cd29deca5" />
+
 ```blocks
 let f = files.open("data.txt");
 f.writeString("yay");
