@@ -1,4 +1,4 @@
-# File system drive
+# File system driver for micro:bit
 New instructions - Filesystem has been removed from makecode official extensions
 
 To use this package, go to https://makecode.microbit.org, click ``Extensions`` and search for `https://github.com/onepointfive-REAL/pxt-microbit-filesystem` and press enter, it will automatically popup.
