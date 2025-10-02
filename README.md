@@ -1,22 +1,14 @@
-# File system driver [![Build Status](https://travis-ci.org/Microsoft/pxt-filesystem.svg?branch=master)](https://travis-ci.org/Microsoft/pxt-filesystem)
+# File system driver
 
-To use this package, go to https://makecode.microbit.org, click ``Extensions`` and search for **filesystem**.
-
-### ~ hint
+To use this package, go to https://makecode.microbit.org, click ``Extensions`` and search for `https://github.com/onepointfive-REAL/pxt-microbit-filesystem` and press enter, it will automatically popup.
 
 DEPRECATED - This package is no longer maintained or supported.
-
-### ~
 
 ## Usage
 
 The package allows to read and write files to the @boardname@ flash.
 
-### ~hint
-
 The entire file system content is ERASED when a new .hex file is download onto the @boardname@.
-
-### ~
 
 ### Writing data
 
